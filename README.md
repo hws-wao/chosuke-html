@@ -2,4 +2,4 @@
 
 簡単スケジュール調整アプリです。  
 wao記述を追加し、wao上で動くようになっているバージョンが↓こちらです。
-https://github.com/hws-wao/chosuke-html
+https://github.com/hws-wao/chosuke-wao
